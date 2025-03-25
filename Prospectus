@@ -1,0 +1,23 @@
+1. Title
+Analyzing Houston Air Quality: Time Series Trends in Aerosol Optical Properties and VOCs
+2. Research Question(s)
+•	How do AAE and SAE vary over July in Houston, and what do they indicate about aerosol sources?
+•	What is the relationship between formaldehyde and VOC concentrations, and how does this link to secondary organic aerosol formation?
+•	Are there significant pollution events during this period, and what are their potential causes?
+3. Objective(s)
+•	Develop a time series analysis workflow to explore air quality trends in Houston using aerosol optical properties (AAE, SAE) and gas-phase pollutants (VOCs, formaldehyde).
+•	Identify key pollution events and possible source contributions.
+•	Provide a reproducible R script for researchers to analyze similar datasets.
+4. Approach
+This analysis will use Python (or R) for time series data processing, visualization, and correlation analysis.
+•	Data Handling: Load and clean the dataset, handle missing values.
+•	Exploratory Analysis: Generate summary statistics, visualize trends over time.
+•	Correlation Analysis: Investigate relationships between AAE, SAE, VOCs, and formaldehyde.
+•	Event Detection: Identify peak pollution episodes and compare with meteorological conditions (if available).
+•	Code Documentation: Provide step-by-step comments and explanations in the script.
+The final tutorial will be hosted on GitHub with detailed documentation and examples.
+5. Selected References
+•	[Reference 1] (Peer-reviewed paper on AAE, SAE as pollution indicators)
+•	[Reference 2] (Study on VOCs and formaldehyde in urban air)
+•	[Reference 3] (Time series analysis in environmental chemistry)
+•	R Core Team. 2024. R: A Language and Environment for Statistical Computing. https://www.r-project.org/
